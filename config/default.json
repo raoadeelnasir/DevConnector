@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb://sharjeel:sharjeel@devconnector-shard-00-00.amihw.mongodb.net:27017,devconnector-shard-00-01.amihw.mongodb.net:27017,devconnector-shard-00-02.amihw.mongodb.net:27017/test?ssl=true&replicaSet=atlas-squq0h-shard-0&authSource=admin&retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken" 
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "96d5662d32611dbb0592",
+    "githubSecret": "ffda627b356131e7708ed03a41233928616c655d"
 }
